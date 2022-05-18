@@ -1,0 +1,8 @@
+name: ErrorTest
+version: 1.0
+author: gbalint
+main: me.gbalint.errorTest.ErrorTest
+commands:
+   errortest:
+      description: ErrorTest
+      usage: /errortest
